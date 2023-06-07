@@ -1,8 +1,11 @@
 # AndroidDevelopments-Tutorials
 Activities define what the app does:
+
 An activity is a special class usually written in Kotlin that control the app behaviror and decides how to respond to the use
+
 Layout define what each scren look like:
-Layouts are usually defined using XM, each screen can include components such as buttons, text, and images.
+
+Layouts are usually defined using XML, each screen can include components such as buttons, text, and images.
 
 
 How activities and layouts work together when you run an app on device?
