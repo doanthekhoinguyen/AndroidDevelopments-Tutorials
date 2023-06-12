@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="16dp"
-    android:orientation="vertical"
+    android:fillViewport="true"
     tools:context=".MainActivity">
-
-    <EditText
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="To"
-        android:gravity="top"
-        android:inputType="text" />
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
     <EditText
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -27,7 +24,7 @@
         android:layout_gravity="end"
         android:layout_margin="40dp"
         android:text="Send" />
+    </LinearLayout>
 
 
-
-</LinearLayout>
+</ScrollView>
