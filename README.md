@@ -70,6 +70,7 @@ repeatedly loses visibility and then becomes visible again.
 The onStop() method will get called before onDestroy()
 
 
+![s](https://github.com/doanthekhoinguyen/AndroidDevelopments-Tutorials/assets/126302300/00381559-bb9d-49ac-9824-d8d72fea780f)
 
 
 Please note that this is a brief summary of the concepts covered. Refer to the "Head First Android" book for detailed explanations and examples.
