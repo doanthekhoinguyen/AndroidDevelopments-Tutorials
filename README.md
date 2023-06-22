@@ -48,6 +48,7 @@ methods: onSaveInstanceState() and onCreate().
 activity is destroyed, and onCreate() picks the Bundle up again when
 the activity has been recreated
 
+![life cycle](https://github.com/doanthekhoinguyen/AndroidDevelopments-Tutorials/assets/126302300/65434934-3ce2-420c-82e3-3f605629c585)
 
 1. The activity gets launched, and the onCreate() method runs.
 Any activity initialization code in the onCreate() method runs.
