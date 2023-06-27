@@ -5,4 +5,6 @@
     <string name="welcome_text">Welcome to Kn Secret Message app! use this app to encrypt
         a secret message.Click Start to begin</string>
     <string name="start">Start</string>
+    <string name="message">Please enter you secret Message</string>
+    <string name="next">Next</string>
 </resources>
